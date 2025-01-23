@@ -22,9 +22,7 @@ You can access here: https://github.com/thanaphon-6509611742/AI-for-Agriculture.
 -----
 ### AquaGuard
 
-The AquaGuard Project was developed using Internet of Things (IoT) technology in conjunction with cloud computing to create a system capable of monitoring and safeguarding water quality. The system employs sensors to measure key indicators of water quality, including Oxidation-Reduction Potential (ORP), temperature, and pH level. These measurements are essential for assessing water conditions.
-
-The collected data is stored in AWS DynamoDB, enabling processing, analysis, and presentation of the information.
+The AquaGuard Project was developed using Internet of Things (IoT) technology in conjunction with cloud computing to create a system capable of monitoring and safeguarding water quality. The system employs sensors to measure key indicators of water quality, including Oxidation-Reduction Potential (ORP), temperature, and pH level. These measurements are essential for assessing water conditions. The collected data is stored in AWS DynamoDB, enabling processing, analysis, and presentation of the information.
 
 You can access here: https://github.com/thanaphon-6509611742/AquaGuard.git
 
